@@ -1,6 +1,6 @@
 # Dataproject
 
-In this project we investigate the development of disposible income in Denmark from 1987 to 2017 using data from Statistics Denmark. 
+In this project we investigate the development of disposable income in Denmark from 1987 to 2017 using data from Statistics Denmark. 
 
 Firstly, we consider the average disposible income differences by Danish regions. Secondly, we investigate the difference in disposible income between men and women. 
 
